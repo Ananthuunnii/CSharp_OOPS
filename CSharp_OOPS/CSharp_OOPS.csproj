@@ -60,6 +60,7 @@
     <Compile Include="Namespace\PptFiles.cs" />
     <Compile Include="Namespace\WordFiles.cs" />
     <Compile Include="Polymorphism\CompileTime.cs" />
+    <Compile Include="Polymorphism\RunTimeWithVirtual.cs" />
     <Compile Include="Polymorphism\RunTime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
